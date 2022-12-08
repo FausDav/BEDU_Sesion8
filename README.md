@@ -2,5 +2,5 @@
 
 ## Donde los sueños de las ovejas eléctricas se hacen realidad
 
-/ algo
-/ otro algo
+- algo
+- otro algo
